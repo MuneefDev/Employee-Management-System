@@ -1,0 +1,15 @@
+/Users/muneefaltamimi/Projects/oopExample/oopExample/bin/Debug/net5.0/oopExample.deps.json
+/Users/muneefaltamimi/Projects/oopExample/oopExample/bin/Debug/net5.0/oopExample.runtimeconfig.json
+/Users/muneefaltamimi/Projects/oopExample/oopExample/bin/Debug/net5.0/oopExample.runtimeconfig.dev.json
+/Users/muneefaltamimi/Projects/oopExample/oopExample/bin/Debug/net5.0/oopExample.dll
+/Users/muneefaltamimi/Projects/oopExample/oopExample/bin/Debug/net5.0/ref/oopExample.dll
+/Users/muneefaltamimi/Projects/oopExample/oopExample/bin/Debug/net5.0/oopExample.pdb
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.AssemblyInfoInputs.cache
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.AssemblyInfo.cs
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.csproj.CoreCompileInputs.cache
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.dll
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/ref/oopExample.dll
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.pdb
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.genruntimeconfig.cache
+/Users/muneefaltamimi/Projects/oopExample/oopExample/obj/Debug/net5.0/oopExample.csproj.AssemblyReference.cache
